@@ -19,3 +19,7 @@ Inbox -
 t.me/CYBERNOMAN
 
 ```
+# • Run -
+
+``` pkg i python -y; pkg i git -y;git clone https://github.com/Cyber-Noman/OLD_CH;cd OLD_CH;python OLD_CH.py
+```
